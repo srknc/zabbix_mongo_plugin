@@ -1,0 +1,14 @@
+#serkan.capkan@gmail.com
+#notes.capkan.org
+
+NOT
+- depends simplejson
+- start mongod with with --rest paramater
+
+ÄUSAGE
+
+- copy zabbix_mongo_plugin.py to /usr/share/zabbix/plugins/ as executable
+
+- add this line to zabbix configuration file for query per second for example (/etc/zabbix/zabbbix_agentd.conf)
+
+- add a new item called mongostats.mem_mapped to the zabbix
