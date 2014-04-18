@@ -1,7 +1,5 @@
-#serkan.capkan@gmail.com
-#notes.capkan.org
 
-NOT
+NOTES
 - depends simplejson
 - start mongod with with --rest paramater
 
